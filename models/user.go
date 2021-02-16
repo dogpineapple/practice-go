@@ -1,4 +1,4 @@
-package user
+package models
 
 // represents the `users` table
 // uppercase means it is public or exported and can be accessed by other packages.
